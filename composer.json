@@ -1,0 +1,12 @@
+{
+  "name": "kaephas/IT328/hola",
+  "authors": [
+    {
+      "name": "Kaephas Kain",
+      "email": "kkain@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
